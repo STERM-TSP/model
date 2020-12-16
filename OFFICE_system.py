@@ -4,7 +4,7 @@
 @author: TSP
 """
 
-import TSP_SMARTX_CONFIG as config
+import TSP_SMARTX_CONFIG_simple as config
 
 ###############################################################################
 #                                    CONSTANTS                                #
